@@ -360,3 +360,4 @@ You should now be able to search for a movie title and add it to the list of lik
 - Data Loaders — a technique for optimising N+1 service queries
 - Testing — using the httptest package to perform queries against a running GraphQL server
 - Query Complexity — Compute complexity values for a query to avoid denial of service from crafted queries
+
